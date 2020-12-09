@@ -28,7 +28,7 @@ function App() {
                 <input type="text" />
 
                 <label htmlFor="name">Your Message</label><br />
-                <textarea name="" id="" rows="5"></textarea>
+                <textarea name="" id="" rows="5" placeholder="type something if you want . . ."></textarea>
 
                 <button className="submit mt-5">Send Message</button>
             </form>
