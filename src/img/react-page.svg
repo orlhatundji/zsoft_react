@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="11.6929in" height="8.26772in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11693 8268"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:none}
+    .fil3 {fill:#FEFEFE}
+    .fil0 {fill:#9055A0}
+    .fil1 {fill:#895AA3}
+    .fil2 {fill:#805FA7}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M20 27l11697 0 0 8254 -11697 0 0 -8254z"/>
+   </clipPath>
+ </defs>
+ <rect class="fil0" width="11693" height="8268"/>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_2239003274832">
+     <path class="fil1" d="M-1227 2144c3997,2423 7195,-1005 13053,-2238l332 2105c-1366,-449 -2732,-78 -3632,1246 -2487,1234 -5993,961 -7461,3701 -542,412 -1683,469 -2092,-426l-200 -4388z"/>
+     <path class="fil2" d="M3662 -2492c-1570,4401 2430,6846 4815,12336l-1995 749c165,-1429 -472,-2692 -1950,-3309 -1709,-2188 -2146,-5677 -5126,-6564 -512,-448 -797,-1554 -2,-2135l4258 -1077z"/>
+    </g>
+    <path class="fil3" d="M2101 908l7955 0c214,0 402,118 501,292l624 0c156,0 283,128 283,284l0 0c0,156 -127,283 -283,283l-310 0c-17,-3 -35,-5 -53,-5l-1098 0c-156,0 -283,128 -283,284l0 0c0,156 127,283 283,283l912 0 0 5c166,25 293,169 293,341l0 0c0,172 -127,316 -293,341l0 2740 -249 0c-156,0 -284,128 -284,284l0 0c0,156 128,284 284,284l249 0 0 6 379 0c156,0 283,128 283,284l0 0c0,156 -127,283 -283,283l-383 0c-36,283 -280,504 -572,504l-7955 0c-317,0 -577,-260 -577,-577l0 -1653 -657 0c-156,0 -284,-127 -284,-283l0 0c0,-156 128,-284 284,-284l786 0c5,0 10,0 16,1l64 0c156,0 283,-128 283,-284l0 0c0,-156 -127,-283 -283,-283l-209 0 0 -2 -390 0c-163,0 -297,-128 -297,-284l0 0c0,-156 190,-284 297,-284l390 0 0 -990c-3,-75 107,-175 248,-176l285 -3c163,0 297,-127 297,-283l0 0c0,-156 -134,-284 -297,-284l-285 -3c-148,-22 -225,-73 -248,-245 -40,-315 260,-576 577,-576z"/>
+   </g>
+  </g>
+  <polygon class="fil4" points="20,27 11717,27 11717,8281 20,8281 "/>
+ </g>
+</svg>
