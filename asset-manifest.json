@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zsoft_react/static/css/main.d3c2111c.chunk.css",
+    "main.css": "/zsoft_react/static/css/main.622bac0c.chunk.css",
     "main.js": "/zsoft_react/static/js/main.ac796edc.chunk.js",
     "main.js.map": "/zsoft_react/static/js/main.ac796edc.chunk.js.map",
     "runtime-main.js": "/zsoft_react/static/js/runtime-main.956e9a8d.js",
@@ -12,7 +12,7 @@
     "static/js/3.b85569e0.chunk.js.map": "/zsoft_react/static/js/3.b85569e0.chunk.js.map",
     "index.html": "/zsoft_react/index.html",
     "static/css/2.267ffeee.chunk.css.map": "/zsoft_react/static/css/2.267ffeee.chunk.css.map",
-    "static/css/main.d3c2111c.chunk.css.map": "/zsoft_react/static/css/main.d3c2111c.chunk.css.map",
+    "static/css/main.622bac0c.chunk.css.map": "/zsoft_react/static/css/main.622bac0c.chunk.css.map",
     "static/js/2.58dbcc51.chunk.js.LICENSE.txt": "/zsoft_react/static/js/2.58dbcc51.chunk.js.LICENSE.txt",
     "static/media/fb.c63efdff.png": "/zsoft_react/static/media/fb.c63efdff.png",
     "static/media/ig.ab6d0b22.png": "/zsoft_react/static/media/ig.ab6d0b22.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.956e9a8d.js",
     "static/css/2.267ffeee.chunk.css",
     "static/js/2.58dbcc51.chunk.js",
-    "static/css/main.d3c2111c.chunk.css",
+    "static/css/main.622bac0c.chunk.css",
     "static/js/main.ac796edc.chunk.js"
   ]
 }
