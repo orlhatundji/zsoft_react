@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/zsoft_react/static/css/main.d3c2111c.chunk.css",
+    "main.js": "/zsoft_react/static/js/main.ac796edc.chunk.js",
+    "main.js.map": "/zsoft_react/static/js/main.ac796edc.chunk.js.map",
+    "runtime-main.js": "/zsoft_react/static/js/runtime-main.956e9a8d.js",
+    "runtime-main.js.map": "/zsoft_react/static/js/runtime-main.956e9a8d.js.map",
+    "static/css/2.267ffeee.chunk.css": "/zsoft_react/static/css/2.267ffeee.chunk.css",
+    "static/js/2.58dbcc51.chunk.js": "/zsoft_react/static/js/2.58dbcc51.chunk.js",
+    "static/js/2.58dbcc51.chunk.js.map": "/zsoft_react/static/js/2.58dbcc51.chunk.js.map",
+    "static/js/3.b85569e0.chunk.js": "/zsoft_react/static/js/3.b85569e0.chunk.js",
+    "static/js/3.b85569e0.chunk.js.map": "/zsoft_react/static/js/3.b85569e0.chunk.js.map",
+    "index.html": "/zsoft_react/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/zsoft_react/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.d3c2111c.chunk.css.map": "/zsoft_react/static/css/main.d3c2111c.chunk.css.map",
+    "static/js/2.58dbcc51.chunk.js.LICENSE.txt": "/zsoft_react/static/js/2.58dbcc51.chunk.js.LICENSE.txt",
+    "static/media/fb.c63efdff.png": "/zsoft_react/static/media/fb.c63efdff.png",
+    "static/media/ig.ab6d0b22.png": "/zsoft_react/static/media/ig.ab6d0b22.png",
+    "static/media/location.3181a62e.png": "/zsoft_react/static/media/location.3181a62e.png",
+    "static/media/logo.6ce24c58.svg": "/zsoft_react/static/media/logo.6ce24c58.svg",
+    "static/media/react-page-media-logo.ce0954ce.png": "/zsoft_react/static/media/react-page-media-logo.ce0954ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.956e9a8d.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.58dbcc51.chunk.js",
+    "static/css/main.d3c2111c.chunk.css",
+    "static/js/main.ac796edc.chunk.js"
+  ]
+}
